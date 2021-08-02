@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Costa Rica StoryMap"
+date:   2021-08-02 00:00:00
+categories: costa rica, central america, back packing
+location: Costa Rica
+tags: costarica centralamerica packing
+---
+
+
+**Coming Soon** 
+
+An interactive map that will walk you through our journey around Costa Rica, including photos along the way.
